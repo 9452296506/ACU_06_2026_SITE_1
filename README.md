@@ -2,8 +2,6 @@
 
 Single-product, fully responsive marketing landing page for **Beauty Age Skin**, a cosmetic face cream for the daily care of mature skin. Built as a static site with HTML5, CSS3 and vanilla JavaScript — no frameworks, no build tools, no backend.
 
-> **Producto cosmético.** Beauty Age Skin es un producto cosmético, no un medicamento. No está destinado a diagnosticar, tratar, curar ni prevenir ninguna enfermedad. Los resultados pueden variar.
-
 ---
 
 ## Overview
