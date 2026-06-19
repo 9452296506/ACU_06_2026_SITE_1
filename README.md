@@ -1,6 +1,6 @@
 # Beauty Age Landing Page
 
-Single-product, fully responsive marketing landing page for **Beauty Age Skin**, a cosmetic face cream for the daily care of mature skin. Built as a static site with HTML5, CSS3 and vanilla JavaScript — no frameworks, no build tools, no backend.
+Single-product, fully responsive marketing landing page for **Beauty Age Skin**, a cosmetic face cream for the daily care of mature skin. Built as a static site with HTML5, CSS3 and vanilla JavaScript.
 
 ---
 
