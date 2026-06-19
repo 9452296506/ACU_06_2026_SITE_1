@@ -50,16 +50,6 @@ A Shopify-style right-side drawer that opens on "Añadir al carrito". State is k
 
 > *"Pedido de demostración. Conecta tu pasarela de pago para activar compras reales."*
 
-## EU cosmetic compliance notes
-
-Copy is written to align with EU cosmetics rules — **Regulation (EC) No 1223/2009** and the common claim criteria of **Regulation (EU) No 655/2013** (legal compliance, truthfulness, evidential support, honesty, fairness, informed decision-making):
-
-- No medical or therapeutic claims; cautious cosmetic wording only (e.g. *"ayuda a hidratar la piel"*, *"contribuye a una apariencia más suave"*).
-- No exaggerated claims (no *"elimina todas las arrugas"*, *"resultado garantizado"*, *"100% efectivo"*, *"efecto bótox"*, *"clínicamente probado"*, etc.).
-- No fake countdowns, fake stock pressure or fake medical endorsements.
-- Before/after content is clearly labelled *"Imágenes ilustrativas. Los resultados pueden variar."*
-- Disclaimer present in the footer and FAQ.
-
 > **Important:** Marketing claims, legal texts and privacy copy are generic placeholders and **must be reviewed and adapted by the business owner or a legal advisor** before publication. Company data, address, email, NIF/CIF, VAT and DPO details are placeholders to be replaced.
 
 ## Folder structure
