@@ -19,7 +19,7 @@ Single-product, fully responsive marketing landing page for **Beauty Age Skin**,
 - **Google Fonts** (Fraunces + Manrope) and **Font Awesome** via CDN
 - **Image assets** — `.webp`, `.jpg`, `.png`
 
-No React/Vue/Angular, no npm, no bundler, no database. The site runs by opening `index.html` directly in a browser.
+The site runs by opening `index.html` directly in a browser.
 
 ## Features
 
